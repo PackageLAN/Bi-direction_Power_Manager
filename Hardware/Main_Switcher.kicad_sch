@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Digital_BuckBoost")
+    (date "2022-07-01")
+    (rev "1.0.1")
+  )
+
   (lib_symbols
     (symbol "Basic_passive_components:Inductor" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "L" (id 0) (at -4.445 -2.54 0)
