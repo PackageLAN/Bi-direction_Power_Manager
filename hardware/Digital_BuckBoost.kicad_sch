@@ -155,6 +155,9 @@
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/b37d236a-c84c-42bd-aa77-fc3b4672b31b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/b5bdef28-d44a-4b70-bff0-19de8614d985"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/bb84a941-ec92-47af-9197-3576ad866d1b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -173,8 +176,14 @@
     (path "/69e152b8-75ff-447f-ad85-baa308ef5d3a/e01dbdf4-254d-430d-a51c-5fceb9206c46"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/e0e52c81-cb01-4fe6-b58d-307600248838"
+      (reference "#PWR?") (unit 1) (value "VDC") (footprint "")
+    )
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/e5263e49-e2ea-4312-aa69-e0750dd1509a"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/e6b67994-e0ec-417d-85f6-2611628576bf"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/ef348620-0c7f-40f0-8a1b-22be0d09f311"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -184,6 +193,9 @@
     )
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/f979a98b-2cbf-4693-bb88-1d95ace5a220"
       (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/f9d63f0c-68da-413f-8595-6aa5d338da03"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/008ca0e1-1771-42ee-b01a-2dc10dd3b15e"
       (reference "C?") (unit 1) (value "100nF") (footprint "GENERAL_RCL_SMD:C0402(1005M)")
@@ -242,20 +254,20 @@
     (path "/69e152b8-75ff-447f-ad85-baa308ef5d3a/50f58867-dd2a-4210-a16e-c7ec2de1bc61"
       (reference "L?") (unit 1) (value "22uH") (footprint "")
     )
-    (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/d1096b95-726e-4e25-bd45-a241e7c6a580"
-      (reference "L?") (unit 1) (value "Inductor") (footprint "")
+    (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/ae2d7689-801d-4322-9d58-8a82e656ecdb"
+      (reference "L?") (unit 1) (value "Power_Inductor") (footprint "")
     )
     (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/0961f02d-c3f8-487d-8f51-1ba4a7c25f57"
-      (reference "Q?") (unit 1) (value "HSBB4052") (footprint "POWER_TRANSISTOR_SMD:SON-3333-FET")
+      (reference "Q?") (unit 1) (value "NTMFS5C670NL") (footprint "POWER_TRANSISTOR_SMD:SON-8_5x6_M")
     )
     (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/8d5997bc-fc0d-4647-ba2d-b1ea22e70eb4"
-      (reference "Q?") (unit 1) (value "HSBB4052") (footprint "POWER_TRANSISTOR_SMD:SON-3333-FET")
+      (reference "Q?") (unit 1) (value "NTMFS5C670NL") (footprint "POWER_TRANSISTOR_SMD:SON-8_5x6_M")
     )
     (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/95352dde-d1da-42b1-a824-a408ca6998c9"
-      (reference "Q?") (unit 1) (value "HSBB4052") (footprint "POWER_TRANSISTOR_SMD:SON-3333-FET")
+      (reference "Q?") (unit 1) (value "NTMFS5C670NL") (footprint "POWER_TRANSISTOR_SMD:SON-8_5x6_M")
     )
     (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/a62fddd5-60cc-46e8-9816-4c942dbba392"
-      (reference "Q?") (unit 1) (value "HSBB4052") (footprint "POWER_TRANSISTOR_SMD:SON-3333-FET")
+      (reference "Q?") (unit 1) (value "NTMFS5C670NL") (footprint "POWER_TRANSISTOR_SMD:SON-8_5x6_M")
     )
     (path "/69e152b8-75ff-447f-ad85-baa308ef5d3a/309f5dfd-8d10-4e47-90e8-1485b8c1c5b2"
       (reference "R?") (unit 1) (value "?kR") (footprint "GENERAL_RCL_SMD:C0402(1005M)")
@@ -283,6 +295,12 @@
     )
     (path "/69e152b8-75ff-447f-ad85-baa308ef5d3a/318328ba-53a7-4d26-aa3e-dd92b4dd5417"
       (reference "U?") (unit 1) (value "TX4137") (footprint "GENERAL_SMALL-SEMI_SMD:SOT-23-6")
+    )
+    (path "/b256324f-5386-44b6-a6e1-6bebe87e5083/762d8b7c-70b8-402f-b334-6174645403cb"
+      (reference "U?") (unit 1) (value "DGD05473") (footprint "GENERAL_SMALL-SEMI_SMD:DFN-3030_10")
+    )
+    (path "/b256324f-5386-44b6-a6e1-6bebe87e5083/a0f5250f-3125-4005-ad07-d19312542f1e"
+      (reference "U?") (unit 1) (value "DGD05473") (footprint "GENERAL_SMALL-SEMI_SMD:DFN-3030_10")
     )
     (path "/69e152b8-75ff-447f-ad85-baa308ef5d3a/d57edf92-7aa5-41ef-be0c-6e93298535bc"
       (reference "U?") (unit 1) (value "HX9193-33GB") (footprint "GENERAL_SMALL-SEMI_SMD:SOT-23-5")
