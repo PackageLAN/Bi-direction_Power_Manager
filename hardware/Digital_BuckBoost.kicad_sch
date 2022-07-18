@@ -287,6 +287,9 @@
     (path "/69e152b8-75ff-447f-ad85-baa308ef5d3a/b93bf28e-fa6e-4c78-b05b-7569067ecaeb"
       (reference "R?") (unit 1) (value "23.7kR") (footprint "GENERAL_RCL_SMD:C0402(1005M)")
     )
+    (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/e1765336-10fe-4ccb-a94a-a657a22e5b45"
+      (reference "R?") (unit 1) (value "Resistor") (footprint "")
+    )
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/eb144262-7631-4191-b27c-09591c2d9fc4"
       (reference "R?") (unit 1) (value "47kR") (footprint "GENERAL_RCL_SMD:C0402(1005M)")
     )
