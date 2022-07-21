@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Bi-direction_Power_Manager.kicad_pro",
+    "filename": "Digital_BuckBoost.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -331,7 +331,7 @@
     ],
     [
       "50f49473-dc50-46ca-b1cb-dcdf25e2e84e",
-      "Main_Switcher"
+      "Main_Switch"
     ],
     [
       "69e152b8-75ff-447f-ad85-baa308ef5d3a",
