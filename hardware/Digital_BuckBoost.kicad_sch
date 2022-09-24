@@ -393,19 +393,19 @@
       (reference "L?") (unit 1) (value "22uH") (footprint "")
     )
     (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/ae2d7689-801d-4322-9d58-8a82e656ecdb"
-      (reference "L?") (unit 1) (value "4.7uH") (footprint "POWER_INDUCTOR_SMD:MC-1770")
+      (reference "L?") (unit 1) (value "202_PowerChoke") (footprint "POWER_INDUCTOR_SMD:MC-1770")
     )
     (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/0961f02d-c3f8-487d-8f51-1ba4a7c25f57"
-      (reference "Q?") (unit 1) (value "NTMFS5C670NL") (footprint "POWER_TRANSISTOR_SMD:SON-8_5x6_M")
+      (reference "Q?") (unit 1) (value "NTMFS5C670NL") (footprint "103_SP_POWER_TRANSISTOR_SMD:SON-6050-FET")
     )
     (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/8d5997bc-fc0d-4647-ba2d-b1ea22e70eb4"
-      (reference "Q?") (unit 1) (value "NTMFS5C670NL") (footprint "POWER_TRANSISTOR_SMD:SON-8_5x6_M")
+      (reference "Q?") (unit 1) (value "NTMFS5C670NL") (footprint "103_SP_POWER_TRANSISTOR_SMD:SON-6050-FET")
     )
     (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/95352dde-d1da-42b1-a824-a408ca6998c9"
-      (reference "Q?") (unit 1) (value "NTMFS5C670NL") (footprint "POWER_TRANSISTOR_SMD:SON-8_5x6_M")
+      (reference "Q?") (unit 1) (value "NTMFS5C670NL") (footprint "103_SP_POWER_TRANSISTOR_SMD:SON-6050-FET")
     )
     (path "/50f49473-dc50-46ca-b1cb-dcdf25e2e84e/a62fddd5-60cc-46e8-9816-4c942dbba392"
-      (reference "Q?") (unit 1) (value "NTMFS5C670NL") (footprint "POWER_TRANSISTOR_SMD:SON-8_5x6_M")
+      (reference "Q?") (unit 1) (value "NTMFS5C670NL") (footprint "103_SP_POWER_TRANSISTOR_SMD:SON-6050-FET")
     )
     (path "/b256324f-5386-44b6-a6e1-6bebe87e5083/2e4dbd09-6015-4287-8f1a-182424efccf0"
       (reference "R?") (unit 1) (value "3.3R") (footprint "GENERAL_RCL_SMD:R0603(1608M)")
@@ -486,22 +486,22 @@
       (reference "U?") (unit 1) (value "HX9193-33GB") (footprint "GENERAL_SMALL-SEMI_SMD:SOT-23-5")
     )
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/ee0597cd-8309-4b58-84f6-3b76d3970dbf"
-      (reference "U?") (unit 1) (value "HC32F460KEUA") (footprint "GENERAL_MIDDLE-SEMI_SMD:QFN-7070_60")
+      (reference "U?") (unit 1) (value "HC32F460KEUA") (footprint "004_GN_MIDDLE-SEMI_SMD:QFN-60_7070")
     )
     (path "/69e152b8-75ff-447f-ad85-baa308ef5d3a/fbe5f298-6eed-4afc-82cd-d94412fb194c"
       (reference "U?") (unit 1) (value "TX4137") (footprint "GENERAL_SMALL-SEMI_SMD:SOT-23-6")
     )
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/f87fd22b-9595-41ab-a7b3-f8e1b26deb0c"
-      (reference "U?") (unit 2) (value "HC32F460KEUA") (footprint "GENERAL_MIDDLE-SEMI_SMD:QFN-7070_60")
+      (reference "U?") (unit 2) (value "HC32F460KEUA") (footprint "004_GN_MIDDLE-SEMI_SMD:QFN-60_7070")
     )
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/a1e5b732-4b16-426d-bfa8-00d2a895c55c"
-      (reference "U?") (unit 3) (value "HC32F460KEUA") (footprint "GENERAL_MIDDLE-SEMI_SMD:QFN-7070_60")
+      (reference "U?") (unit 3) (value "HC32F460KEUA") (footprint "004_GN_MIDDLE-SEMI_SMD:QFN-60_7070")
     )
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/41bb75ae-7465-4923-8cd2-eab7cbbdf07a"
-      (reference "U?") (unit 4) (value "HC32F460KEUA") (footprint "GENERAL_MIDDLE-SEMI_SMD:QFN-7070_60")
+      (reference "U?") (unit 4) (value "HC32F460KEUA") (footprint "004_GN_MIDDLE-SEMI_SMD:QFN-60_7070")
     )
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/43ea8619-44d7-4094-9159-57821ef477ad"
-      (reference "U?") (unit 5) (value "HC32F460KEUA") (footprint "GENERAL_MIDDLE-SEMI_SMD:QFN-7070_60")
+      (reference "U?") (unit 5) (value "HC32F460KEUA") (footprint "004_GN_MIDDLE-SEMI_SMD:QFN-60_7070")
     )
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/eb810121-b4cc-4551-8fa0-e65d14bbc107"
       (reference "X?") (unit 1) (value "Xtal-4") (footprint "")
