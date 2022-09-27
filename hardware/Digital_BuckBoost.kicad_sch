@@ -129,6 +129,10 @@
     (property "Sheet file" "Base_PWR.kicad_sch" (id 1) (at 50.8 178.3846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
+    (pin "PW_DRV_EN" input (at 76.2 152.4 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid e287dd9e-3413-438a-a1eb-3379b1460873)
+    )
   )
 
   (sheet (at 114.3 63.5) (size 25.4 38.1) (fields_autoplaced)

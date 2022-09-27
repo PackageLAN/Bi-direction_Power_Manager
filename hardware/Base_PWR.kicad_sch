@@ -980,6 +980,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid defa7fdb-3660-469e-849f-fe62f44b317b)
   )
+  (wire (pts (xy 45.72 50.8) (xy 50.8 50.8))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid df10b95c-f216-44eb-97b3-963520981b60)
+  )
   (wire (pts (xy 177.8 55.88) (xy 177.8 71.12))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid e43d6a32-df98-4a84-9d1d-2a89bca45ff5)
@@ -1015,6 +1019,11 @@
   (wire (pts (xy 203.2 55.88) (xy 203.2 71.12))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid fc6ad226-55d9-46b3-a129-a2a7c14fe322)
+  )
+
+  (hierarchical_label "PW_DRV_EN" (shape input) (at 45.72 50.8 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid f13e5caf-8581-475d-b9f7-ec9beeb21fb3)
   )
 
   (symbol (lib_id "power:GND") (at 195.58 147.32 0) (unit 1)
