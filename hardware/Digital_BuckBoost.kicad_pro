@@ -336,6 +336,10 @@
     [
       "69e152b8-75ff-447f-ad85-baa308ef5d3a",
       "Base_PWR"
+    ],
+    [
+      "7ca53394-32c1-4560-974c-c5e3df62f0bf",
+      "Amplifier"
     ]
   ],
   "text_variables": {}
