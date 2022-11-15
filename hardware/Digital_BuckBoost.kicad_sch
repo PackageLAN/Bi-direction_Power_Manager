@@ -529,9 +529,6 @@
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/2ba43dba-8dd3-4a30-bd81-0d16d22869a5"
       (reference "C?") (unit 1) (value "100nF") (footprint "001_GN_RCL_SMD:C0402(1005M)")
     )
-    (path "/7ca53394-32c1-4560-974c-c5e3df62f0bf/35711114-63e3-49e0-9b57-a2ffb9bfbbad"
-      (reference "C?") (unit 1) (value "100nF") (footprint "001_GN_RCL_SMD:C0402(1005M)")
-    )
     (path "/b256324f-5386-44b6-a6e1-6bebe87e5083/3b332816-8e93-470b-9a87-f5da4da059b0"
       (reference "C?") (unit 1) (value "2.2uF") (footprint "001_GN_RCL_SMD:C0805(2012M)")
     )
@@ -743,7 +740,7 @@
       (reference "R?") (unit 1) (value "5.1R") (footprint "001_GN_RCL_SMD:R0603(1608M)")
     )
     (path "/7ca53394-32c1-4560-974c-c5e3df62f0bf/078b9628-4c93-452f-a52a-90923b42a589"
-      (reference "U?") (unit 1) (value "MC4580G-K08") (footprint "003_GN_SMALL-SEMI_SMD:DFN-8_3020")
+      (reference "U?") (unit 1) (value "RS622XTDE8") (footprint "003_GN_SMALL-SEMI_SMD:DFN-8_2020")
     )
     (path "/69e152b8-75ff-447f-ad85-baa308ef5d3a/318328ba-53a7-4d26-aa3e-dd92b4dd5417"
       (reference "U?") (unit 1) (value "TX4137") (footprint "003_GN_SMALL-SEMI_SMD:SOT-23-6")
@@ -764,7 +761,7 @@
       (reference "U?") (unit 1) (value "TX4137") (footprint "003_GN_SMALL-SEMI_SMD:SOT-23-6")
     )
     (path "/7ca53394-32c1-4560-974c-c5e3df62f0bf/a44976a3-3859-427d-ad5c-2270b695cfa8"
-      (reference "U?") (unit 2) (value "MC4580G-K08") (footprint "003_GN_SMALL-SEMI_SMD:DFN-8_3020")
+      (reference "U?") (unit 2) (value "RS622XTDE8") (footprint "003_GN_SMALL-SEMI_SMD:DFN-8_2020")
     )
     (path "/124f2799-f158-4d3a-9bc8-caeff411a229/f87fd22b-9595-41ab-a7b3-f8e1b26deb0c"
       (reference "U?") (unit 2) (value "HC32F460KEUA") (footprint "004_GN_MIDDLE-SEMI_SMD:QFN-60_7070")
